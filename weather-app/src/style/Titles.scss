@@ -2,7 +2,10 @@
   height: 600px;
   background-image: url('../images/bg.jpg');
   background-origin: border-box;
-  background-attachment:fixed;
-  background-position:center center;
+  background-size: contain;
   color: rgb(5, 12, 73);
+  text-align: center;
+  h1{
+    padding-top: 30%;
+  }
 }
